@@ -42,7 +42,7 @@
     - Monitorar o uso de memória do aplicativo durante várias sessões de uso.
     
 - RESULTADOS ESPERADOS.
-    - O aplicativo deve usar memória de forma eficiente e não afetar negativamente outros aplicativos<details>
+    - O aplicativo deve usar memória de forma eficiente e não afetar negativamente outros aplicativos</details>
     
     
 <details>
