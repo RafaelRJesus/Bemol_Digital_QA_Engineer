@@ -1,14 +1,31 @@
-# Bemol_Digital_QA_Engineer
+<summary><strong>Bemol_Digital_QA_Engineer</strong></summary><br />
 
-#Tecnologias utilizadas 
+
+<summary><strong>O projeto foi organizado em três ramificações principais:</strong></summary><br />
+
+1. Branch Principal (main):
+    - Primeiro desafio com cenários de teste descritos no README.
+    - Detalhes adicionais disponíveis em um arquivo Excel.
+    - Foco da Etapa I: Fundamentos de Testes.
+2. Branch de Automação Frontend (Automacao_Front):
+    - Cenários de teste automatizados.
+    - Cobertura da Etapa II: Automação de Teste Web I e Etapa III: Automação de Teste Web II.
+3. Branch de Automação Backend (Automacao_Back):
+    - Cenários de teste automatizados para API.
+    - Abordagem da Etapa IV: Automação de Teste de API.
+
+<summary><strong>Tecnologias Utilizadas no Projeto</strong></summary><br />
+
 - Java
-- Intellij
+- IntelliJ IDEA
 - Rest-Assured
 - Selenium
 - Gradle
+- Git
+- GitHub
 
 
-# Cenário de teste 
+# Cenários de teste 
 
 <details>
   <summary><strong>VALIDAÇÃO 1: Acessar App</strong></summary><br />
@@ -51,7 +68,7 @@
 
 - ETAPAS PARA EXECUTAR.
     - Com o aplicativo aberto na tela de login. 
-    - Insira um email válido e uma senha correta. Clique no botão de login.	 
+    - Insira um email válido e uma senha correta. Clique no botão de login.
     
 - RESULTADOS ESPERADOS.
     - A aplicação deve permitir o login e redirecionar o usuário para a próxima tela.	
@@ -156,6 +173,6 @@
     - Clicar no botão "Voltar".
     
 - RESULTADOS ESPERADOS.
-    - O usuário é levado de volta para a tela anterior, geralmente a tela de login ou a tela inicial do aplicativo.
+    - O usuário é levado de volta para a tela anterior, geralmente a tela de login ou a tela inicial do aplicativo.</details>
 
 
