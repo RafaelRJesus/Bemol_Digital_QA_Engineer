@@ -5,7 +5,7 @@
 
 1. Branch Principal (main):
     - Primeiro desafio com cenários de teste descritos no README.
-    - Detalhes adicionais disponíveis em um arquivo Excel "".
+    - Detalhes adicionais disponíveis em um arquivo Excel "Cenarios_de_Teste.xlsx".
     - Foco da Etapa I: Fundamentos de Testes.
 2. Branch de Automação Frontend (Automacao_Front):
     - Cenários de teste automatizados.
