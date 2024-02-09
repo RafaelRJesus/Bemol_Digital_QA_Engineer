@@ -13,7 +13,7 @@
 3. Branch de Automação Backend (Automacao_Back):
     - Cenários de teste automatizados para API.
     - Abordagem da Etapa IV: Automação de Teste de API.
-
+ 
 <summary><strong>Tecnologias Utilizadas no Projeto</strong></summary><br />
 
 - Java
