@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation      group: 'org.junit.jupiter',         name: 'junit-jupiter-api',      version: '5.9.1'
+    testImplementation      group: 'org.junit.jupiter',         name: 'junit-jupiter-engine',   version: '5.9.0'
+    testImplementation      group: 'org.junit.jupiter',         name: 'junit-jupiter-params',   version: '5.9.0'
+    implementation          group: 'io.rest-assured',           name: 'rest-assured',           version: '5.3.0'
+    implementation          group: 'com.google.code.gson',      name: 'gson',                   version: '2.10'
+    annotationProcessor     group: 'org.projectlombok',         name: 'lombok',                 version: '1.18.24'
+    testAnnotationProcessor group: 'org.projectlombok',         name: 'lombok',                 version: '1.18.24'
+    testCompileOnly         group: 'org.projectlombok',         name: 'lombok',                 version: '1.18.24'
+    compileOnly             group: 'org.projectlombok',         name: 'lombok',                 version: '1.18.24'
+    implementation          group: 'com.github.javafaker',      name: 'javafaker',              version: '1.0.2'
+
+}
+
+test {
+    useJUnitPlatform()
+}
