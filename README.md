@@ -5,7 +5,7 @@
 
 1. Branch Principal (main):
     - Primeiro desafio com cenários de teste descritos no README.
-    - Detalhes adicionais disponíveis em um arquivo Excel.
+    - Detalhes adicionais disponíveis em um arquivo Excel "".
     - Foco da Etapa I: Fundamentos de Testes.
 2. Branch de Automação Frontend (Automacao_Front):
     - Cenários de teste automatizados.
@@ -17,13 +17,15 @@
 <summary><strong>Tecnologias Utilizadas no Projeto</strong></summary><br />
 
 - Java
-- IntelliJ IDEA
 - Rest-Assured
 - Selenium
 - Gradle
+
+
+<summary><strong>Ferramentas Utilizadas no Projeto</strong></summary><br />
+- IntelliJ IDEA
 - Git
 - GitHub
-
 
 # Cenários de teste 
 
