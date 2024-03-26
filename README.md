@@ -1,4 +1,4 @@
-<summary><strong>Desafio Bemol_Digital_QA_Engineer</strong></summary><br />
+<summary><strong>Desafio Bemol_Digital_QA_Engineer</strong></summary><br /> 
 
 
 <summary><strong>O projeto foi organizado em três ramificações principais:</strong></summary><br />
@@ -13,7 +13,7 @@
 3. Branch de Automação Backend (Automacao_Back):
     - Cenários de teste automatizados para API.
     - Abordagem da Etapa IV: Automação de Teste de API.
-
+ 
 <summary><strong>Tecnologias Utilizadas no Projeto</strong></summary><br />
 
 - Java
